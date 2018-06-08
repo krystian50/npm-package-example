@@ -1,4 +1,9 @@
 # npm-package-example
 
-# Install 
+## Install
+
 npm i npm-example-w
+
+## Include 
+
+@import "~npm-example-w/index.less";
