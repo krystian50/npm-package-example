@@ -1,0 +1,22 @@
+{
+  "name": "npm-example-w",
+  "version": "1.0.2",
+  "description": "a css package example",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krystian50/npm-package-example.git"
+  },
+  "keywords": [
+    "css",
+    "npm",
+    "package"
+  ],
+  "author": "KF",
+  "license": "MIT",
+  "homepage": "https://github.com/krystian50/npm-package-example#readme",
+  "dependencies": {
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0"
+  }
+}
